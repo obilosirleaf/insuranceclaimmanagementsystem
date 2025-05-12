@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327544454102",
+    "project_id": "insuranceclaimmanagementsystem",
+    "storage_bucket": "insuranceclaimmanagementsystem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327544454102:android:7b767d592e37e1cdb0c277",
+        "android_client_info": {
+          "package_name": "com.skylar.insuranceclaimmanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVTMW8murtRlF6qE6PyzdwP7PvYtmpEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
